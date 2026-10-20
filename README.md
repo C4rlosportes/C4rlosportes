@@ -10,7 +10,7 @@ Meu objetivo é continuar evoluindo como desenvolvedor, ampliando meus conhecime
 
 ## 🔗 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https:://www.linkedin.com/in/-henriquesiqueira)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-henriquesiqueira/?isSelfProfile=true)
 
 ---
 
